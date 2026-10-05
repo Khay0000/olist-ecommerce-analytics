@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 
 \# E-commerce Revenue and Customer Retention Analysis
 
